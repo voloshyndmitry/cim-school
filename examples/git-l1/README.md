@@ -1,7 +1,5 @@
-## How to run:
+## Git: part 1-2
 
-- run server
-```bash
-$ node server.js
-```
- - open ```http://localhost:3000``` in your browser.
+- git status
+- git branch
+- git diff
